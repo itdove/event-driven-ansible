@@ -5,7 +5,6 @@ azure-servicebus
 dpath
 kafka-python
 pyyaml
-sys_platform != 'darwin'
 watchdog
 psycopg
 xxhash
